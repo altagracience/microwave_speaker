@@ -26,6 +26,11 @@ Project Status and Improvements:
 
 While the project is functional, there is ample room for improvement. This implementation serves as one of the creator's early projects, dating back to 2018.
 
+Demo video:
+
+[[![Alt Text](http://img.youtube.com/vi/1X3EEnkKixM/0.jpg)](http://www.youtube.com/watch?v=1X3EEnkKixM)]
+
+
 Contact:
 
 For questions or further information about the project, feel free to contact the project maintainer fantinstefano96@gmail.com.
