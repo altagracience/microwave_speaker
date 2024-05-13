@@ -28,7 +28,7 @@ While the project is functional, there is ample room for improvement. This imple
 
 Demo video:
 
-[[![Alt Text](http://img.youtube.com/vi/1X3EEnkKixM/0.jpg)](http://www.youtube.com/watch?v=1X3EEnkKixM)]
+[![Alt Text](http://img.youtube.com/vi/1X3EEnkKixM/0.jpg)](http://www.youtube.com/watch?v=1X3EEnkKixM)
 
 
 Contact:
